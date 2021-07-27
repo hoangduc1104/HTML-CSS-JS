@@ -1,0 +1,355 @@
+{
+  "products": [
+    {
+      "NameProduct": "UREA",
+      "Amount": 127,
+      "Price": 6789,
+      "id": 1
+    },
+    {
+      "NameProduct": "NPK Song Mã",
+      "Amount": 161,
+      "Price": 6,
+      "id": 2
+    },
+    {
+      "NameProduct": "NPK Đầu trâu",
+      "Amount": 133,
+      "Price": 7,
+      "id": 3
+    },
+    {
+      "NameProduct": "Lân Bột",
+      "Amount": 211,
+      "Price": 7,
+      "id": 4
+    },
+    {
+      "NameProduct": "Lân Viên",
+      "Amount": 227,
+      "Price": 8,
+      "id": 5
+    },
+    {
+      "NameProduct": "KALI",
+      "Amount": 83,
+      "Price": 9,
+      "id": 6
+    },
+    {
+      "NameProduct": "baconco",
+      "Amount": 5,
+      "Price": 560000,
+      "id": 7
+    }
+  ],
+  "Admin": [
+    {
+      "id": 1,
+      "Image": "Screenshot 2021-03-31 205837.png",
+      "Name": "Hoàng Tiễn",
+      "PhoneNumber": "0389379805",
+      "UserName": "hoangtien",
+      "Pass": "070263"
+    },
+    {
+      "id": 2,
+      "Image": "Screenshot 2021-03-31 205837.png",
+      "Name": "Hoàng Đức",
+      "PhoneNumber": "0967469360",
+      "UserName": "hoangduc",
+      "Pass": "duc3752583"
+    }
+  ],
+  "Customer": [
+    {
+      "Name": "Hoàng Chính",
+      "PhoneNumber": "0389379805",
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "UserName": "hoangchinh",
+      "Pass": "070263",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "Name": "Đặng Dưỡng",
+      "PhoneNumber": "0389379805",
+      "UserName": "DangDuong",
+      "Pass": "070263"
+    },
+    {
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "Name": "Đặng Nhân",
+      "PhoneNumber": "0389379805",
+      "UserName": "dangnhan",
+      "Pass": "070263",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "Name": "Đặng Thành",
+      "PhoneNumber": "0389379805",
+      "UserName": "dangthanh",
+      "Pass": "070263"
+    },
+    {
+      "id": 5,
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "Name": "Đặng Chính",
+      "PhoneNumber": "0389379805",
+      "UserName": "dangchinh",
+      "Pass": "070263"
+    },
+    {
+      "id": 6,
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "Name": "Đặng Liệu",
+      "PhoneNumber": "0389379805",
+      "UserName": "danglieu",
+      "Pass": "070263"
+    },
+    {
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "Name": "Hoàng Bồ",
+      "PhoneNumber": "0389379805",
+      "UserName": "hoangbo",
+      "Pass": "070263",
+      "id": 7
+    },
+    {
+      "Image": "../Screenshot 2021-03-31 205837.png",
+      "Name": "Hoàng Nam",
+      "PhoneNumber": "123456",
+      "UserName": "hoangnam",
+      "Pass": "070263",
+      "id": 8
+    }
+  ],
+  "session": [
+    {
+      "id": 0,
+      "cus_id": 2
+    }
+  ],
+  "nhap": [
+    {
+      "id": 1,
+      "ds": [
+        {
+          "id": 1,
+          "NameProduct": "UREA",
+          "Amount": 5,
+          "Price": 480000
+        },
+        {
+          "id": 2,
+          "NameProduct": "NPK Song Mã",
+          "Amount": 5,
+          "Price": 370000
+        },
+        {
+          "id": 3,
+          "NameProduct": "NPK Đầu Trâu",
+          "Amount": 5,
+          "Price": 390000
+        },
+        {
+          "id": 4,
+          "NameProduct": "Lân Bột",
+          "Amount": 5,
+          "Price": 260000
+        },
+        {
+          "id": 5,
+          "NameProduct": "Lân Viên",
+          "Amount": 5,
+          "Price": 290000
+        },
+        {
+          "id": 6,
+          "NameProduct": "KALI",
+          "Amount": 5,
+          "Price": 370000
+        }
+      ],
+      "date": "11/4/2021"
+    },
+    {
+      "id": 2,
+      "ds": [
+        {
+          "id": 1,
+          "NameProduct": "UREA",
+          "Amount": 5,
+          "Price": 480000
+        },
+        {
+          "id": 2,
+          "NameProduct": "NPK Song Mã",
+          "Amount": 5,
+          "Price": 370000
+        },
+        {
+          "id": 3,
+          "NameProduct": "NPK Đầu Trâu",
+          "Amount": 5,
+          "Price": 390000
+        },
+        {
+          "id": 4,
+          "NameProduct": "Lân Bột",
+          "Amount": 5,
+          "Price": 260000
+        },
+        {
+          "id": 5,
+          "NameProduct": "Lân Viên",
+          "Amount": 5,
+          "Price": 290000
+        },
+        {
+          "id": 6,
+          "NameProduct": "KALI",
+          "Amount": 5,
+          "Price": 370000
+        }
+      ],
+      "date": "12/4/2021"
+    },
+    {
+      "ds": [
+        {
+          "id": 1,
+          "NameProduct": "UREA",
+          "Amount": 3,
+          "Price": 4
+        },
+        {
+          "id": 2,
+          "NameProduct": "NPK Song Mã",
+          "Amount": 3,
+          "Price": 2
+        }
+      ],
+      "date": "23/6/2021",
+      "id": 3
+    },
+    {
+      "ds": [
+        {
+          "id": 1,
+          "NameProduct": "UREA",
+          "Amount": 5,
+          "Price": 6789
+        },
+        {
+          "id": 2,
+          "NameProduct": "NPK Song Mã",
+          "Amount": 4,
+          "Price": 6
+        }
+      ],
+      "date": "23/6/2021",
+      "id": 4
+    }
+  ],
+  "xuat": [
+    {
+      "id": 1,
+      "Customer": "Hoàng Chính",
+      "Date": "12/4/2021",
+      "NameProduct": "KALI",
+      "Amount": 1,
+      "Price": 370000,
+      "tinhtrang": "Nợ"
+    },
+    {
+      "Customer": "Hoàng Chính",
+      "NameProduct": "KALI",
+      "Amount": 5,
+      "Price": 85483034,
+      "Date": "25/6/2021",
+      "tinhtrang": "Nợ",
+      "id": 2
+    },
+    {
+      "Customer": "Đặng Thành",
+      "NameProduct": "NPK Song Mã",
+      "Amount": 3,
+      "Price": 67890,
+      "Date": "25/6/2021",
+      "tinhtrang": "Nợ",
+      "id": 3
+    },
+    {
+      "Customer": "Đặng Nhân",
+      "NameProduct": "NPK Đầu trâu",
+      "Amount": 3,
+      "Price": 14,
+      "Date": "25/6/2021",
+      "tinhtrang": "Nợ",
+      "id": 5
+    },
+    {
+      "Customer": "Đặng Dưỡng",
+      "NameProduct": "UREA",
+      "Amount": 4,
+      "Price": 10000000,
+      "Date": "25/6/2021",
+      "tinhtrang": "Nợ",
+      "id": 6
+    },
+    {
+      "Customer": "Đặng Nhân",
+      "NameProduct": "Lân Bột",
+      "Amount": 5,
+      "Price": 4567,
+      "Date": "25/6/2021",
+      "tinhtrang": "Nợ",
+      "id": 7
+    },
+    {
+      "Customer": "Đặng Nhân",
+      "NameProduct": "Lân Viên",
+      "Amount": 10,
+      "Price": 34567,
+      "Date": "25/6/2021",
+      "tinhtrang": "Nợ",
+      "id": 8
+    },
+    {
+      "Customer": "Hoàng Chính",
+      "NameProduct": "KALI",
+      "Amount": 2,
+      "Price": 3,
+      "Date": "26/6/2021",
+      "tinhtrang": "Nợ",
+      "id": 16
+    },
+    {
+      "Customer": "Đặng Chính",
+      "NameProduct": "NPK Song Mã",
+      "Amount": 2,
+      "Price": 560000,
+      "Date": "2/7/2021",
+      "tinhtrang": "Nợ",
+      "id": 17
+    }
+  ],
+  "tratien": [
+    {
+      "id": 1,
+      "name": "Đặng Thành",
+      "sotien": 5000000,
+      "date": "12/4/2021"
+    },
+    {
+      "id": 2,
+      "name": "Đặng Dưỡng",
+      "sotien": 5000000,
+      "date": "12/4/2021"
+    }
+  ]
+}

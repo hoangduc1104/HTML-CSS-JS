@@ -1,0 +1,371 @@
+.why_choose_bcc {
+    background-position: bottom right;
+    background-attachment: initial;
+    text-align: center;
+}
+
+.why_choose_bcc {
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: #fff;
+    padding: 0.5rem 0 2.0625rem 0;
+}
+
+.nav-link {
+    font-size: large;
+}
+
+.menu {
+    font-weight: 700;
+    color: #2d2d2d;
+}
+
+.menu:hover {
+    color: #ad3ec0 !important;
+}
+
+.email {
+    color: #2d2d2d;
+}
+
+.email:hover {
+    color: #337ab7
+}
+
+.tracuu {
+    height: 380px;
+    width: auto;
+    background-color: #f2efec;
+}
+
+.tracuusp {
+    width: 100px;
+    height: 1px;
+    border-bottom: 3px #6cc000 solid;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+
+.form-select {
+    height: 50px;
+    margin-right: 30px;
+    width: 220px;
+}
+
+.profile-button {
+    height: 50px;
+    width: auto;
+    border-radius: 5em;
+    font-weight: 700;
+}
+
+.login-button {
+    height: 40px;
+    width: auto;
+    font-weight: 500;
+}
+
+.form-select-lg:focus {
+    box-shadow: none;
+    border-width: 1px;
+    border-color: #732b80
+}
+
+.form-select-lg:hover {
+    box-shadow: none;
+    border-width: 1px;
+    border-color: #732b80
+}
+
+.profile-button {
+    background: #7574b8;
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #1c114d
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.login-button {
+    background: #7574b8;
+    box-shadow: none;
+    border: none
+}
+
+.login-button:hover {
+    background: #1c114d
+}
+
+.login-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.login-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.text-color {
+    color: #61727d;
+}
+
+.control-bg {
+    background-color: #f2efec;
+}
+
+.card-title {
+    text-align: center;
+    height: 55px;
+    border-bottom: 2px darkmagenta solid;
+}
+
+.card-title-tintuc {
+    text-align: center;
+    height: 80px;
+    border-bottom: 2px darkmagenta solid;
+}
+
+.card-text {
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    height: 75px;
+}
+
+.card-body {
+    background-color: rgb(233, 239, 243);
+}
+
+.card-img-top {
+    /* position: ; */
+    height: 300px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card-img-top-tintuc {
+    /* position: ; */
+    height: 150px;
+}
+
+.card-img-top:hover {
+    /* position: absolute; */
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    transition: 0.5s;
+}
+
+.carousel-item>div :hover {
+    box-shadow: 6px 6px 6px rgb(221, 192, 221);
+}
+
+.controls-top {
+    text-align: center;
+}
+
+.btn-floating .fa-chevron-right {
+    position: absolute;
+    top: 35%;
+    transform: translate(0, -35%);
+    background-color: #195aaa;
+    color: rgb(248, 244, 244);
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+    z-index: 1;
+    background-image: url(//files.baconco.com.vn/images/sym_slider.png);
+    background-repeat: no-repeat;
+    left: auto;
+    background-position: -36px 20px;
+    right: 0;
+}
+
+.btn-floating .fa-chevron-left {
+    position: absolute;
+    top: 35%;
+    left: 0;
+    transform: translate(0, -37%);
+    background-color: #195aaa;
+    color: rgb(248, 244, 244);
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+    z-index: 1;
+    background-image: url(//files.baconco.com.vn/images/sym_slider.png);
+    background-repeat: no-repeat;
+    background-position: 22px 21px;
+}
+
+.btn-floating .fa-chevron-left:hover {
+    background-color: rgb(248, 244, 244);
+    color: rgb(48, 18, 133);
+    border: 3px rgb(133, 119, 132) solid;
+    transition: 0.5s;
+}
+
+.btn-floating .fa-chevron-right:hover {
+    background-color: rgb(248, 244, 244);
+    color: rgb(48, 18, 133);
+    border: 3px rgb(133, 119, 132) solid;
+    transition: 0.5s;
+}
+
+.fa-chevron-left {
+    padding-top: 20px !important;
+}
+
+.fa-chevron-right {
+    padding-top: 20px !important;
+}
+
+.cover {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.imgHolder {
+    height: 260px;
+    overflow: hidden;
+    position: relative;
+}
+
+#theGrid .box {
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 0 5px;
+    min-height: 270px;
+    margin-top: 3px;
+}
+
+p.article_name {
+    font-size: 1.2rem;
+    line-height: 24px;
+    color: #0479c3;
+    padding: 5px;
+}
+
+#theGrid .imgHolder:hover .description-box {
+    background-color: rgba(217, 38, 44, 0.8);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+#theGrid .in-box {
+    width: 100%;
+    height: 260px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+#theGrid .box-text h1 {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: left !important;
+}
+
+#theGrid .imgHolder:hover .box-text h1 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    transition: 0.5s;
+}
+
+#theGrid .box-text p {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 25px;
+    text-align: left !important;
+}
+
+#theGrid .imgHolder:hover .box-text p {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    transition: 0.5s;
+}
+
+#theGrid .box-text button {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    color: #fff;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 0;
+    border-radius: 1em;
+    width: 200px;
+    font-family: sans-serif;
+    background-color: rgba(41, 141, 204, 0.701961);
+}
+
+#theGrid .box-text button:hover {
+    background-color: #fff !important;
+    color: rgba(35, 12, 141, 0.702) !important;
+    transition: 0.5s;
+}
+
+#theGrid .imgHolder:hover .box-text button {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    transition: 0.5s;
+}
+
+#theGrid .imgHolder:hover .in-box {
+    background-color: rgba(41, 141, 204, 0.701961);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+@media (max-width: 600px) {
+    #theGrid .box {
+        width: 100%;
+    }
+}
+
+#recipegrid {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.control-text-congnghe {
+    margin-top: 200px;
+    padding-left: 10px;
+    font-size: 34px;
+}
